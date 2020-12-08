@@ -17,7 +17,7 @@ Seamlessly connect tools in your workflow using Premiere Pro APIs. Automate comp
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_MagicWand_18_N.svg)
+![alt text](images/premierpro-feature1-resized.old.png)
 
 ### Automate complex workflows
 
@@ -25,7 +25,7 @@ Build panels that streamline how media is managed. Simplify the search and inges
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_Plug_18_N.svg)
+![alt text](images/premierpro-feature2-resized.old.png)
 
 ### Add support for new file formats 
 
@@ -33,7 +33,7 @@ Add importer and/or exporter plug-ins to work directly with new file formats and
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_VectorDraw_18_N.svg)
+![alt text](images/premierpro-feature3-resized.old.png)
 
 ### Integrate external hardware
 
@@ -41,7 +41,7 @@ Use the transmit API to send video and audio from the Program Monitor anywhere. 
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluEffectsAndTransitions_96.svg)
+![alt text](images/S_IlluEffectsAndTransitions_96.svg)
 
 ### Build effects and transitions
 
@@ -50,7 +50,7 @@ Extend the capabilities of After Effects plug-ins running in Premiere Pro, enabl
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluMercuryTransmit_96.svg)
+![alt text](images/S_IlluMercuryTransmit_96.svg)
 
 ### Transmit the Premiere Pro Monitor <br /> to any destination 
 
@@ -58,7 +58,7 @@ Mercury Transmit plug-ins can send video, audio, and closed captioning to any ex
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluMetadata_96.svg)
+![alt text](images/S_IlluMetadata_96.svg)
 
 ### Manage your metadata 
 
@@ -66,7 +66,7 @@ Get and set all metadata associated with project items, including all supported 
 
 <TextBlock slots="image, heading, text" width="50%" theme="light" isCentered />
 
-![CC icon](images/S_IlluPreview_96.svg)
+![alt text](images/S_IlluPreview_96.svg)
 
 ### Preview external content 
 
@@ -74,7 +74,7 @@ Set up the Premiere Pro Source Monitor to preview footage in any supported forma
 
 <TextBlock slots="image, heading, text" width="50%" theme="light" isCentered />
 
-![CC icon](images/S_IlluCepPlugin_96.svg)
+![alt text](images/S_IlluCepPlugin_96.svg)
 
 #### Build across apps with <br /> standard web tools 
 
