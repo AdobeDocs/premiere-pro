@@ -3,29 +3,30 @@ title: Creative Cloud - Premiere Pro
 description: This is the home page of Premiere Pro APIs 
 ---
 
-<Hero slots="image, heading, text, buttons" variant="halfwidth" />
+<Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-#  Build your favorite new feature in the industry-leading editing software.
+![Premiere Pro Logo](images/pr_appicon_256.svg)
+
+#  Build your favorite new feature in Premiere Pro
 
 Seamlessly connect tools in your workflow using Premiere Pro APIs. Automate complex tasks, communicate with external hardware, add support for new file formats and codecs, design new effects and transitions, and add panels that seamlessly fit into the editing workspace.
 
 * [Get the SDKs](https://console.adobe.io/downloads/pr)
 
 
-
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_MagicWand_18_N.svg)
+![Stock illustration of a hand holding film](images/premierpro-feature1-resized.old.png)
 
 ### Automate complex workflows
 
-Build panels that streamline how media is managed. Simplify the search and ingest of source media, and automate tedious and error-prone steps for final delivery.
+Simplify the search and ingest of source media, and automate tedious and error-prone steps for final delivery.
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_Plug_18_N.svg)
+![Illustration of a phone connecting to the Cloud](images/premierpro-feature2-resized.old.png)
 
 ### Add support for new file formats 
 
@@ -33,40 +34,40 @@ Add importer and/or exporter plug-ins to work directly with new file formats and
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_VectorDraw_18_N.svg)
+![Illustration of tiny people building film on a phone](images/premierpro-feature3-resized.old.png)
 
 ### Integrate external hardware
 
-Use the transmit API to send video and audio from the Program Monitor anywhere. Use the two-way communication capabilities of the control surface API to sync Premiere Pro with hardware faders, VU meters, color grading controls, and more.
+Use the control surface API to sync Premiere Pro with hardware faders, VU meters, color grading controls, and more.
 
-<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/S_IlluEffectsAndTransitions_96.svg)
+![Effects and transitions icon](images/S_IlluEffectsAndTransitions_96.svg)
 
 ### Build effects and transitions
 
-Extend the capabilities of After Effects plug-ins running in Premiere Pro, enabling them to be applied as transitions, and adding GPU rendering interoperability.
+Extend After Effects plug-ins running in Premiere Pro and add GPU rendering interoperability.
 
 
-<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/S_IlluMercuryTransmit_96.svg)
+![Mercury Transmit icon](images/S_IlluMercuryTransmit_96.svg)
 
 ### Transmit the Premiere Pro Monitor <br /> to any destination 
 
 Mercury Transmit plug-ins can send video, audio, and closed captioning to any external device or connection.
 
-<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/S_IlluMetadata_96.svg)
+![Metadata icon](images/S_IlluMetadata_96.svg)
 
 ### Manage your metadata 
 
-Get and set all metadata associated with project items, including all supported marker types and Premiere Pro private project metadata.
+Get and set all metadata associated with project items, including all supported marker types.
 
 <TextBlock slots="image, heading, text" width="50%" theme="light" isCentered />
 
-![CC icon](images/S_IlluPreview_96.svg)
+![Illustration preview icon](images/S_IlluPreview_96.svg)
 
 ### Preview external content 
 
@@ -74,17 +75,26 @@ Set up the Premiere Pro Source Monitor to preview footage in any supported forma
 
 <TextBlock slots="image, heading, text" width="50%" theme="light" isCentered />
 
-![CC icon](images/S_IlluCepPlugin_96.svg)
+![Plugin icon](images/S_IlluCepPlugin_96.svg)
 
-#### Build across apps with <br /> standard web tools 
+#### Build with standard web tools 
 
-Premiere Pro supports the Adobe Common Extensibility Platform (CEP), which lets you build extensions using standard HTML, CSS and JavaScript. Connect to any third-party web services you like, use standard web frameworks, and even script across Adobe CC applications.
+ Build extensions using standard HTML, CSS and JavaScript. Connect to any third-party web services you like, and  script across Adobe Creative Cloud applications.
 
+<TextBlock slots="image, heading, text1, buttons" theme="dark" />
+
+![Adobe Stock image of collaborators](images/AdobeStock_252386533.697x377.png)
+
+### Find Powerful Partners
+
+We’ve found that one of the greatest challenges our customers have is navigating through a large partner eco-system to find the solution that best suits their unique workflow requirements. The Partner Finder was designed to make this process easier by including a company overviews, use case information and other useful information about these companies and their products.
+
+* [Video & Audio Partner Finder](https://adobe-video-partner-finder.com/)
 
 
 <TextBlock slots="image, heading, text, links" width="33%" theme="dark" isCentered />
 
-![generic logo](images/premierpro-extensions1-resized.jpg)
+![Frame IO logo](images/premierpro-extensions1-resized.jpg)
 
 ### Frame.io 
 
@@ -94,10 +104,9 @@ A real-time, connected solution for collaboration with editors, producers and cl
 
 
 
-
 <TextBlock slots="image, heading, text, links" width="33%" theme="dark" isCentered />
 
-![generic logo](images/premierpro-extensions2-resized.png)
+![Pond5 logo](images/pond5_logo.jpg)
 
 ### Pond5 
 
@@ -107,10 +116,9 @@ An easy way to find, test, and buy footage, music, and sound effects for your pr
 
 
 
-
 <TextBlock slots="image, heading, text, links" width="33%" theme="dark" isCentered />
 
-![generic logo](images/S_IlluExtensions_96.svg)
+![Film Impact logo](images/filmimpact-logo.svg)
 
 ### FilmImpact 
 
