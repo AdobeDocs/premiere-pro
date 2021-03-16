@@ -127,7 +127,7 @@ Choose from various packs to get transitions and motion for your videos.
 * [Learn more](https://www.filmimpact.net/plugins)
 
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
+<SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
 ![CC banner](images/cc-banner.png)
 
