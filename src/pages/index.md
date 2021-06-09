@@ -5,9 +5,9 @@ description: This is the home page of Premiere Pro APIs
 
 <Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
-![Premiere Pro Logo](images/pr_appicon_256.svg)
+![Premiere Pro Logo](https://adobe.io/shared/icons/pr_appicon_64.svg)
 
 #  Build your favorite new feature in Premiere Pro
 
@@ -129,7 +129,7 @@ Choose from various packs to get transitions and motion for your videos.
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![CC banner](images/cc-banner.png)
+![CC banner](https://adobe.io/shared/images/cc-banner.png)
 
 ## Subscribe to the Creative Cloud developer newsletter 
 
