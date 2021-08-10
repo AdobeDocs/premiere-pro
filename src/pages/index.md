@@ -1,4 +1,13 @@
 ---
+keywords:
+  - Creative Cloud
+  - API Documentation
+  - JavaScript
+  - ExtendScript
+  - SDKDocumentation
+  - C++
+  - Scripting
+  - JavaScript
 title: Creative Cloud - Premiere Pro
 description: This is the home page of Premiere Pro APIs 
 ---
