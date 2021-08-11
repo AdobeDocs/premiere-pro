@@ -4,7 +4,7 @@ keywords:
   - API Documentation
   - JavaScript
   - ExtendScript
-  - SDKDocumentation
+  - SDK Documentation
   - C++
   - Scripting
   - JavaScript
