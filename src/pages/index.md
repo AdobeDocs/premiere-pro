@@ -22,11 +22,12 @@ description: This is the home page of Premiere Pro APIs
 
 Seamlessly connect tools in your workflow using Premiere Pro APIs. Automate complex tasks, communicate with external hardware, add support for new file formats and codecs, design new effects and transitions, and add panels that seamlessly fit into the editing workspace.
 
-* [Get the SDKs](https://developer.adobe.com/console/servicesandapis/pr)
-* [Learn more](https://ppro-plugins.docsforadobe.dev/)
+* [Start Scripting](https://ppro-scripting.docsforadobe.dev/)
+* [JavaScript panels](https://github.com/Adobe-CEP/Samples/tree/master/PProPanel#readme)
+* [C++ SDK](https://developer.adobe.com/console/servicesandapis/pr)
 
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />q
 
 ![Stock illustration of a hand holding film](images/premierpro-feature1-resized.old.png)
 
