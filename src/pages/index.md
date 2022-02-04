@@ -27,7 +27,7 @@ Seamlessly connect tools in your workflow using Premiere Pro APIs. Automate comp
 * [C++ SDK](https://developer.adobe.com/console/servicesandapis/pr)
 
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />q
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 ![Stock illustration of a hand holding film](images/premierpro-feature1-resized.old.png)
 
