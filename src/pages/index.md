@@ -94,7 +94,9 @@ Set up the Premiere Pro Source Monitor to preview footage in any supported forma
 
 <TextBlock slots="image, heading, text1, buttons" theme="dark" />
 
-![Adobe Stock image of collaborators](images/AdobeStock_252386533.697x377.png)
+<!-- ![Adobe Stock image of collaborators](images/AdobeStock_252386533.697x377.png) -->
+
+![Digital video logos](images/dva-partnerfinder-image001a.png)
 
 ### Find Powerful Partners
 
